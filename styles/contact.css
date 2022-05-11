@@ -1,0 +1,99 @@
+
+body{
+    background-color:#fff;
+}
+.container-fluid {
+    padding: 2% 6%;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Quicksand', sans-serif;
+
+}
+.navbar-brand {
+    font-size: 200%;
+    font-weight: bold;
+}
+.navcolor{
+    background-color: #39AEA9;
+    color: #fff;
+}
+.intro{
+    text-align: center;
+    padding: 30px;
+}
+.introh3{
+    font-weight: bold;
+    font-size: 50px;
+    /* line-height: 5px; */
+    margin-top: 2px;
+}
+
+
+.introp{
+    font-size: 20px;
+    letter-spacing: 1px;
+   
+}
+/* contactsec*/
+.contactsec{
+    height: 500px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* contact section  */
+.firstcol4{
+    background-color:#39AEA9;
+    color: #fff;
+    padding: 20px ;
+    border-radius: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.scndcol8{
+    background-color:whitesmoke;
+    border-top-right-radius:10px ;
+    border-bottom-right-radius: 10px;
+    padding: 20px ;
+}
+.cntdetails{
+    padding-top: 50px;
+    
+}
+.cntp{
+    line-height: 10px;
+
+}
+.cfab{
+    line-height: 40px;
+    color:#ed3237;
+}
+
+.ftfa:hover{
+    color: #ed3237;
+}
+.ctnicon{
+    padding-top: 90px;
+}
+
+input,textarea{
+    border-width: 0px;
+    border-bottom-width: 2px;    
+    background-color: whitesmoke;
+} 
+input:active{
+    border-width: 0px;
+    border-bottom-width: 2px; 
+}
+.submitbtn{
+    background-color:#39AEA9;
+    color: #fff;
+    margin-top: 10px;
+    float: right;
+}
+.submitbtn:hover{
+    background-color:#39AEf9;
+    color: #fff;
+}
+
+@media (max-width: 1028px) {
+
+} 
