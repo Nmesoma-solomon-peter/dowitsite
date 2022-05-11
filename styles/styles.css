@@ -192,7 +192,7 @@ a{
 /* media query */
 @media (max-width:1028px) {
     h1{
-        font-size: 3em;
+        font-size: 2em;
     }
     
         .sec1dcol2{
